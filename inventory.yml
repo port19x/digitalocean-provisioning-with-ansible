@@ -1,0 +1,4 @@
+---
+digitalocean:
+  hosts:
+    megamind.example.com:
